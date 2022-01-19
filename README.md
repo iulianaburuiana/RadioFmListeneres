@@ -3,6 +3,7 @@ Aplicatie de notare a melodiilor redate pe un post de radio. Pe baza notelor aco
 acestea reprezentand cele mai placute melodii de catre ascultatori.
 
 Aplicatia contine *6 entitati* dupa cum urmeaza:
+
 -city
 -listener
 -song

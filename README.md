@@ -17,6 +17,7 @@ Aplicatia contine *6 entitati* dupa cum urmeaza:
 -genre
 
 Ca functionalitati
+
 *Se pot adauga*:
 
 -un oras(orsul ascultatorului)
@@ -32,9 +33,10 @@ Ca functionalitati
 -un artist nou
 
 *Se pot afisa*
+
 -toate orasele
 
--toti assculatori
+-toti asculatori
 
 -toate melodiile
 
